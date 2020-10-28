@@ -1,7 +1,8 @@
 Giraffe
 Monkey
 Lion
-
+Tiger
+Bear
 
 
 
